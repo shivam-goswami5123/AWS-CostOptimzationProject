@@ -46,7 +46,7 @@ The detailed step-by-step implementation of this project is provided in my **Has
 - Screenshots for every configuration.  
 - Proper explanations of each step.  
 
-🔗 **Read the full article here**: [Automated Cost Optimization of AWS EBS Snapshots]()
+🔗 **Read the full article here**: [Automated Cost Optimization of AWS EBS Snapshots](https://shivamgoswami5123.hashnode.dev/aws-cost-optimization)
 
 ---
 

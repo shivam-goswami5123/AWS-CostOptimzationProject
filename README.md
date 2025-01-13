@@ -42,8 +42,7 @@ The project leverages **AWS services** to create a cost-efficient and scalable s
 ## Implementation Steps  
 
 The detailed step-by-step implementation of this project is provided in my **Hashnode blog article**, complete with:  
-- Code snippets.  
-- Screenshots for every configuration.  
+- Code snippets.   
 - Proper explanations of each step.  
 
 🔗 **Read the full article here**: [Automated Cost Optimization of AWS EBS Snapshots](https://shivamgoswami5123.hashnode.dev/aws-cost-optimization)
